@@ -66,7 +66,7 @@ gem 'lev', '~> 4.3.2'
 gem 'squeel'
 
 # Contract management
-gem 'fine_print', '~> 3.0.0'
+gem 'fine_print', path: '/Users/jps/dev/fine_print' #'~> 3.0.0'
 
 # Keyword search
 gem "keyword_search"
